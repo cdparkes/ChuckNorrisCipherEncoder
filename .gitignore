@@ -1,0 +1,22 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Chuck Norris Cipher Encoder (Java)/*
+!/Chuck Norris Cipher Encoder (Java)/task/
+/Chuck Norris Cipher Encoder (Java)/task/*
+!/Chuck Norris Cipher Encoder (Java)/task/src
+
+# Project exclude paths
+/Topics/Floating-point types/Evaluate an expression/out/
+/Topics/Floating-point types/Evaluate an expression/out/production/classes/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/production/classes/
